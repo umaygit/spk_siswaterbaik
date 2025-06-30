@@ -20,7 +20,7 @@
 - **Hasil Perhitungan SMART**
 - **Laporan / Cetak PDF**
 
-> *(Gambar-gambar dapat ditambahkan di sini menggunakan tag markdown `![alt](link_gambar)` jika tersedia)*
+
 > ![Login Page](https://github.com/umaygit/spk_siswaterbaik/raw/main/a.png)
 > ![Login Page](https://github.com/umaygit/spk_siswaterbaik/raw/main/a1.png)
 > ![Login Page](https://github.com/umaygit/spk_siswaterbaik/raw/main/a2.png)
@@ -53,7 +53,7 @@
 - Blade Template Engine
 - Tailwind CSS / Bootstrap
 - JavaScript (AJAX & DOM Interactions)
-- Laravel DomPDF (jika menggunakan cetak PDF)
+
 
 ---
 
@@ -86,12 +86,4 @@ php artisan serve
 
 
 ---
-
-### 🔧 Petunjuk
-- Ganti `https://github.com/umaygit/spk_siswaterbaik.git` dengan link repository kamu (jika berubah).
-- Jika kamu punya **screenshot**, tambahkan dengan markdown:
-  
-```markdown
-![Login](public/screenshots/login.png)
-![Dashboard](public/screenshots/dashboard.png)
 
