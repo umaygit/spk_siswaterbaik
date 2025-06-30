@@ -21,7 +21,12 @@
 - **Laporan / Cetak PDF**
 
 > *(Gambar-gambar dapat ditambahkan di sini menggunakan tag markdown `![alt](link_gambar)` jika tersedia)*
+> ![Login Page](https://github.com/umaygit/spk_siswaterbaik/raw/main/a.png)
 > ![Login Page](https://github.com/umaygit/spk_siswaterbaik/raw/main/a1.png)
+> ![Login Page](https://github.com/umaygit/spk_siswaterbaik/raw/main/a2.png)
+> ![Login Page](https://github.com/umaygit/spk_siswaterbaik/raw/main/a3.png)
+> ![Login Page](https://github.com/umaygit/spk_siswaterbaik/raw/main/a4.png)
+> ![Login Page](https://github.com/umaygit/spk_siswaterbaik/raw/main/a5.png)
 
 
 ---
