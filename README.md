@@ -76,3 +76,15 @@ php artisan migrate
 
 # Jalankan server lokal
 php artisan serve
+
+
+---
+
+### 🔧 Petunjuk
+- Ganti `https://github.com/umaygit/spk_siswaterbaik.git` dengan link repository kamu (jika berubah).
+- Jika kamu punya **screenshot**, tambahkan dengan markdown:
+  
+```markdown
+![Login](public/screenshots/login.png)
+![Dashboard](public/screenshots/dashboard.png)
+
